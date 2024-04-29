@@ -1,0 +1,25 @@
+{
+    "Peliculas": [
+        {
+            "id": 1,
+            "name": "El Robo del Sigloo",
+            "year": 2017,
+            "directors": "Matias lucena",
+            "Where to see": "cuevanaa"
+        },
+        {
+            "id": 2,
+            "name": "El Robo del Siglo",
+            "year": 2017,
+            "directors": "Emiliano lucena",
+            "Where to see": "cuevanaa"
+        },
+        {
+            "id": 3,
+            "name": "Narnia",
+            "year": 2003,
+            "directors": "Emiliano lucena",
+            "Where to see": "cuevanaa"
+        }
+    ]
+}
